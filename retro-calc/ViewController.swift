@@ -70,6 +70,15 @@ class ViewController: UIViewController {
         processOperation(op: Operation.Equals)
     }
     
+    @IBAction func onClearPressed(_ sender: AnyObject) {
+        playSound()
+        counterStr = "0.0"
+        outputLbl.text = "0"
+        runningNumber = ""
+        priorInput = ""
+        currentOperation = Operation.Empty
+    }
+    
     func processOperation(op: Operation) {
         playSound()
         //Check if numbers were typed
