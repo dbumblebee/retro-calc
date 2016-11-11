@@ -102,7 +102,7 @@
 				TargetAttributes = {
 					7DF8FDDA1DC9C17300E1C683 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 2BK3YKJ4V3;
+						DevelopmentTeam = XLYUH65LFN;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -269,7 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2BK3YKJ4V3;
+				DEVELOPMENT_TEAM = XLYUH65LFN;
 				INFOPLIST_FILE = "retro-calc/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dbumblebee.retro-calc";
@@ -282,7 +282,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2BK3YKJ4V3;
+				DEVELOPMENT_TEAM = XLYUH65LFN;
 				INFOPLIST_FILE = "retro-calc/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dbumblebee.retro-calc";
@@ -310,6 +310,7 @@
 				7DF8FDEF1DC9C17400E1C683 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
